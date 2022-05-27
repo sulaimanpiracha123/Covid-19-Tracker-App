@@ -29,7 +29,7 @@ const Covid =()=>{
         getCovidData();
 
     },[])
-
+//
 
 
     return(
